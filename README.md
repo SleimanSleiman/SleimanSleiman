@@ -70,36 +70,6 @@ I enjoy solving real-world problems through thoughtful design, efficient impleme
 </p>
 
 
----
-
-# 📌 Pinned Project Cards
-
-<p align="center">
-  <a href="https://github.com/SleimanSleiman/MazeGen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SleimanSleiman&repo=MazeGen&theme=default" />
-  </a>
-  <a href="https://github.com/SleimanSleiman/TraFi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SleimanSleiman&repo=TraFi&theme=default" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SleimanSleiman/Meddelandesystem-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SleimanSleiman&repo=Meddelandesystem&theme=default" />
-  </a>
-</p>
-
----
-
-# 🔥 Currently Working On
-
-- Advanced **Java backend systems**  
-- Improving skills in **Spring**, **React**, and **API architecture**  
-- Real-world apps that prioritize **clean system design & usability**  
-- Expanding portfolio with professional, scalable projects  
-
----
-
 # 💼 Experience
 
 ### **Programmer & Project Manager — NSR**  
