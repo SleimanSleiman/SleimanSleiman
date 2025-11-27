@@ -84,7 +84,7 @@ I enjoy solving real-world problems through thoughtful design, efficient impleme
 </p>
 
 <p align="center">
-  <a href="https://github.com/SleimanSleiman/Meddelandesystem">
+  <a href="https://github.com/SleimanSleiman/Meddelandesystem-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SleimanSleiman&repo=Meddelandesystem&theme=default" />
   </a>
 </p>
