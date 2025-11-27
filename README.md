@@ -69,18 +69,6 @@ I enjoy solving real-world problems through thoughtful design, efficient impleme
   <img src="https://img.shields.io/badge/System%20Architecture-4CAF50?style=for-the-badge" />
 </p>
 
----
-
-# 🧩 Featured Projects
-
-### 🧱 MazeGen — Level Editor  
-🖥️ **Tech:** Java • JavaScript  
-
-### 🚆 TraFi — Commute Route Optimizer  
-⚙️ **Tech:** Java • HTML • CSS • Real-time API  
-
-### 💬 Meddelandesystem — TCP Messaging System  
-📡 **Tech:** Java • TCP • Threading  
 
 ---
 
