@@ -81,24 +81,3 @@ I enjoy solving real-world problems through thoughtful design, efficient impleme
 ### **Customer Service Representative — Elgiganten**  
 📅 June 2022 – January 2023  
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SleimanSleiman&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleimanSleiman&layout=compact" height="160" />
-</p>
-
----
-
-# 🟩 Animated Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SleimanSleiman&theme=github" />
-</p>
-
----
-
-# 🤝 References
-Available upon request.
