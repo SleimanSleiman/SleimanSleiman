@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&text=Sleiman%20Sleiman&fontSize=50&animation=fadeIn&fontAlign=50" />
 </p>
 
-<h3 align="center">Programmer • Project Manager • Backend & Full-Stack Developer</h3>
+<h3 align="center">Programmer • Full-Stack Developer</h3>
 <p align="center">Computer Science Student at Malmö University (Graduating 2026)</p>
 
 <!-- Social Badges -->
