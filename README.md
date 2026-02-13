@@ -27,7 +27,7 @@
 ##  About Me
 
 I’m a committed developer with a passion for clean code, system architecture, and building practical, user-focused applications**.  
-My experience spans Java backend development, React/TypeScript**, and agile project leadership, where I’ve helped teams deliver reliable digital solutions.
+My experience spans Java backend development, React/TypeScript, and agile project leadership, where I’ve helped teams deliver reliable digital solutions.
 
 I enjoy solving real-world problems through thoughtful design, efficient implementation, and clear communication.
 
