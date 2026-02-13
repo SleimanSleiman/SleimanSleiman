@@ -24,16 +24,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I’m a committed developer with a passion for **clean code, system architecture, and building practical, user-focused applications**.  
-My experience spans **Java backend development**, **React/TypeScript**, and **agile project leadership**, where I’ve helped teams deliver reliable digital solutions.
+I’m a committed developer with a passion for clean code, system architecture, and building practical, user-focused applications**.  
+My experience spans Java backend development, React/TypeScript**, and agile project leadership, where I’ve helped teams deliver reliable digital solutions.
 
 I enjoy solving real-world problems through thoughtful design, efficient implementation, and clear communication.
 
 ---
 
-# 🔧 Tech Stack & Tools
+#  Tech Stack & Tools
 
 ### **Languages**
 <p>
@@ -70,14 +70,14 @@ I enjoy solving real-world problems through thoughtful design, efficient impleme
 </p>
 
 
-# 💼 Experience
+# Experience
 
 ### **Programmer & Project Manager — NSR**  
-📅 September 2025 – January 2026  
+September 2025 – January 2026  
 
 ### **Retail Consultant — StoreSupport**  
-📅 June 2024 – January 2025  
+June 2024 – January 2025  
 
 ### **Customer Service Representative — Elgiganten**  
-📅 June 2022 – January 2023  
+June 2022 – January 2023  
 
