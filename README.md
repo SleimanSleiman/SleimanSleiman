@@ -8,7 +8,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="[https://sleimansleiman.netlify.app/](https://sleimansleiman.github.io/)">
+  <a href="https://sleimansleiman.github.io/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:Sleimanx2@gmail.com">
