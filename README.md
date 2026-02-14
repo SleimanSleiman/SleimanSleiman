@@ -74,9 +74,5 @@ I enjoy solving real-world problems through thoughtful design, efficient impleme
 ### **Programmer & Project Manager — NSR**  
 September 2025 – January 2026  
 
-### **Retail Consultant — StoreSupport**  
-June 2024 – January 2025  
 
-### **Customer Service Representative — Elgiganten**  
-June 2022 – January 2023  
 
